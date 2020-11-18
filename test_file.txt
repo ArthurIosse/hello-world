@@ -1,0 +1,33 @@
+some text in header 
+second line
+third line
+
+some imports or includes
+and maybe some preprocessor declarations if its c
+
+
+some declarations of constant variables, objects and functions
+
+some function () ... {
+    something in work
+    returning maybe
+}
+
+main loop () {
+    some code in the main loon
+    declaration of variables 
+    some interesting logic 
+    some for loop {
+        some if else conditions {
+            and logic inside
+        } else maybe {
+            and more logic
+        }
+    }
+
+    some functional stuff -> {
+        () -> anonymous stuff 
+    }
+
+    thats enough for now
+}
