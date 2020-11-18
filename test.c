@@ -1,5 +1,7 @@
 #include <stdio.h>
+
 void cyclicSwap(int *a, int *b, int *c);
+
 int main() {
     int a, b, c;
 
