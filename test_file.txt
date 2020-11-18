@@ -21,11 +21,8 @@ main loop () {
     some interesting logic 
     some for loop {
         some if else conditions {
-<<<<<<< HEAD
             CHANGED LOGIC IN 1111
-=======
             CHANGES IN 3333 LEADS TO CONFLICT
->>>>>>> changed logic in 3333
         } else maybe {
             and more logic
         }
