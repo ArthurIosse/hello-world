@@ -1,9 +1,12 @@
 #include <stdio.h>
+#include <stdbool.h>
 
 void cyclicSwap(int *a, int *b, int *c);
 
 int main() {
+
     int a, b, c;
+    bool flag = true;
 
     printf("Enter a, b and c respectively: ");
     scanf("%d %d %d", &a, &b, &c);
