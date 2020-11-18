@@ -21,7 +21,10 @@ main loop () {
     some interesting logic 
     some for loop {
         some if else conditions {
+<<<<<<< HEAD
             CHANGED LOGIC IN 1111
+=======
+>>>>>>> b2501f4c67dd99b08aae4db0e769dfd139724730
             CHANGES IN 3333 LEADS TO CONFLICT
         } else maybe {
             and more logic
